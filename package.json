@@ -1,0 +1,27 @@
+{
+  "name": "bilibili-card-hexo",
+  "version": "0.0.1",
+  "description": "Embed a chip in your Hexo blog with bilibili video info on it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duoduoeeee/bilibili-card-hexo.git"
+  },
+  "keywords": [
+    "hexo",
+    "videos",
+    "bilibili"
+  ],
+  "author": "duoduoeeee",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/duoduoeeee/hexo-tag-bilibili/issues"
+  },
+  "homepage": "https://github.com/duoduoeeee/bilibili-card-hexo",
+  "dependencies": {
+
+  }
+}
