@@ -1,8 +1,8 @@
 /**
-* hexo-badge-bilibili
-* https://github.com/Z4Tech/hexo-tag-bilibili.git
+* bilibili-card-hexo
+* https://github.com/duoduoeeee/bilibili-card-hexo.git
 * Copyright (c) 2017, duoduoeeee
-* Licensed under the MIT license.
+* 
 
 * Syntax:
 * {% bishi [av_id] %} or {% bishi [av_id] [page] %}
@@ -19,6 +19,7 @@ var headers = {
   'Accept-Encoding': 'gzip, deflate, br',
   'Accept-Language': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,zh-TW;q=0.6',
   'Cookie': '',
+  'Referer': 'https://bilibili.com/read/home',
 }
 
 function formatSeconds(value) {
